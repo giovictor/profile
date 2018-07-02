@@ -1,0 +1,18 @@
+import React, { Component } from 'react';
+
+class Footer extends Component {
+    render() {
+        return (
+            <footer>
+                <div className="container">
+                   <p>Email: giorodriguez021@gmail.com </p>
+                   <p>Contact No.: +639068688300</p>
+                   <a href="https://www.linkedin.com/in/gio-victor-rodriguez-370282164/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                   <a href="https://www.github.com/giovictor" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+            </footer>
+        );
+    }
+}
+
+export default Footer;

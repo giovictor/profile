@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family:'Raleway', sans-serif;
+  background-color:#333;
+  color:white;
+}
+
+
+#banner {
+    background-image:url('images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 400px;
+    text-align:center;
+}
+
+.bannerImages {
+    padding-top:145px;
+}
+
+#nameimg {
+    height:50px;
+    margin-bottom:30px;
+}
+
+#positionimg {
+    height:30px;
+    margin-bottom:20px;
+}
+
+#image {
+    height:250px;
+    width:250px;
+}
+
+.about {
+    padding-top:160px;
+    height:100%;
+    padding-bottom:40px;
+}
+
+#about {
+    padding:0;
+    background-color: #016699;
+    text-align: center;
+    height: 50px;
+}
+
+#about h3 {
+    line-height: 50px;
+}
+
+#about p {
+    font-size: 15px;
+    text-align: justify;
+    padding-top: 20px;
+}
+
+.portfolio {
+    margin-top:100px;
+}
+
+#portfolio-header {
+    height: 50px;
+    background-color:  #016699;
+    text-align: center;
+}
+
+#portfolio-header h3
+{
+    line-height: 50px;
+    color: white;
+}
+
+#portfolio-header p
+{
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+}
+
+#portfolios {
+    margin-top:60px;
+}
+
+#portfolios a {
+    color:white;
+}
+
+
+.portfolios {
+    text-align:center;
+}
+
+.portfolios a, .portfolios a:hover {
+    color:black;
+}
+
+.portfolios a img
+{
+    opacity:1;
+    height: 210px;
+}
+
+.portfolios a img:hover
+{
+    opacity:0.8;
+}
+
+#borderleft, #borderright
+{
+    border: solid;
+    border-width: 1px;
+    border-color: #016699;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin-top: 80px;
+}
+
+#techskills {
+    padding-bottom:30px;
+}
+
+#techskills h2
+{
+    padding-left:60px;
+    padding-top: 50px;
+    font-size: 30px;
+    color: #016699;
+}
+
+footer 
+{
+    height:200px;
+    width:100%;
+    background-color:#016699;
+    padding-top:30px;
+    text-align:center;
+}
+
+footer i {
+    color:white;
+    font-size:30px;
+    padding:10px;
+}
+
+footer a:hover {
+    opacity:0.8;
+}
+
+.checked {
+    color: orange;
+}
+
+.unchecked {
+    color:#777;
+}
+
+.starrating {
+   font-size:30px;
+}
+
+.skill {
+    padding-bottom:30px;
+}
+
+
+
+
