@@ -2,7 +2,7 @@
   "name": "profile-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/giovictor.github.io/profile",
+  "homepage": "http://giovictor.github.io/profile",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "react": "^16.4.0",
